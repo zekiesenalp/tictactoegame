@@ -1,0 +1,8 @@
+İsim:  wq 
+Harf: X
+Boyut: 5
+X - - O - 
+X - - - O 
+X - O - - 
+- - - - - 
+- - - - - 
